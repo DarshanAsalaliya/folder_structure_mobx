@@ -1,8 +1,12 @@
 # folder_structure_mobx
 
-A new Flutter project.
+Flutter simple folder structure with mobx.
+
+suggestions are welcome.
 
 ## Getting Started
+
+replace "project" with your project name 
 
 This project is a starting point for a Flutter application.
 
